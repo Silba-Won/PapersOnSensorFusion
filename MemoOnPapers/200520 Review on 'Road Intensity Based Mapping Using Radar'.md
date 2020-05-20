@@ -17,3 +17,6 @@ Topographic map : 지형도
 infinitesimal : 무한소 (Extremely small)
 
 Poisson point process : a.k.a Poisson Process
+
+### 3. Memo
+
