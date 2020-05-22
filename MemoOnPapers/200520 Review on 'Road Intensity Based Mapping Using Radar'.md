@@ -22,3 +22,5 @@ Poisson point process :
 
 $ \eta(a;b,c) $ : normal gaussian distribution on random variable a, with mean value b, and covariance c
 
+Poisson point process : a.k.a Poisson Process
+
